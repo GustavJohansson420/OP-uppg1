@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\OP-uppg1\\OP-uppg1.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\PO-uppg1\\OP-uppg1.csproj",
       "projectName": "OP-uppg1",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\OP-uppg1\\OP-uppg1.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\PO-uppg1\\OP-uppg1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\OP-uppg1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\PO-uppg1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
